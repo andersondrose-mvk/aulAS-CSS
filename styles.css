@@ -1,1 +1,17 @@
-
+.display-block {
+  display: block;
+  height: 200px;
+  background-color: blue;
+  boder: 1px solid #000;
+}
+.display-inline {
+  display: inline;
+  background-color: green;
+  boder: 1px solid black;
+}
+.display-inline-block {
+  display: inline-block;
+  height: 200px;
+  background-color: blue;
+  boder: 1px solid #000;
+}
