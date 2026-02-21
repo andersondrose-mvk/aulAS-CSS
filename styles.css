@@ -11,7 +11,6 @@
 }
 .display-inline-block {
   display: inline-block;
- 
   background-color: pink;
   boder: 1px solid #000;
 }
