@@ -10,8 +10,8 @@
   boder: 1px solid black;
 }
 .display-inline-block {
-  display: inline-block;
- 
+  display: inline-block; 
   background-color: pink;
-  boder: 1px solid #000;
+  border: 1px solid black;
+  margin-top: 30px;
 }
